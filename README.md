@@ -57,6 +57,7 @@ Happy Open Sourcing!
 - [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
 - [Sum_of_fibonacci_numbers](algorithms/Maths/Sum_of_fibonacci_numbers)
 - [Check_if_given_number_is_Fibonacci_number](algorithms/maths/Check_if_given_number_is_Fibonacci_number)
+- [Find Egyptian Fractions for a given fraction](algorithms/Maths/Egyptian_Fractions)
 
 ### Sorting
 
